@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django, Angular**
 
-- 👯 I’m looking to collaborate on **Full-Sack Projects**
+- 👯 I’m looking to collaborate on **Full-Stack Projects**
 
 - 🤝 I’m looking for help with **Automated CI/CD Pipeline with Preview Deployments**
 
