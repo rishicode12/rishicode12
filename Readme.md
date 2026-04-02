@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Disease Predictor**  
 
-- 🌱 I’m currently learning **Django, Angular**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
