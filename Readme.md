@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **rishijeetsinha100@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Bn2yxfqpqMpiCkOF-uibHoEBYnGym-Fu/view?usp=sharing](https://drive.google.com/file/d/1Bn2yxfqpqMpiCkOF-uibHoEBYnGym-Fu/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Bn2yxfqpqMpiCkOF-uibHoEBYnGym-Fu/view?usp=sharing](https://drive.google.com/file/d/1xzEm9YYcaPky-Tq2o_d7chCyJnIIMG6m/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
